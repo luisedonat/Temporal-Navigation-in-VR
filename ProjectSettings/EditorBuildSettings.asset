@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Luises Room.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 521b80ed2659abe4490a4151fd283897
+  - enabled: 1
+    path: Assets/Scenes/Slider_NoChoices.unity
+    guid: da7c2ac614baf4942a4907167050cd61
+  - enabled: 1
+    path: Assets/Scenes/Slider_ManyChoices.unity
+    guid: f28ffdee97df50940a68a2a4c6f5ea65
+  - enabled: 1
+    path: Assets/Scenes/Slider_FewChoices.unity
+    guid: 4046ea3f9a33d38419178226f7e8bbbc
+  - enabled: 1
+    path: Assets/Scenes/Interactor_NoChoices.unity
+    guid: 08c9363b9990afb41a63140a6d559f2f
+  - enabled: 1
+    path: Assets/Scenes/Interactor_ManyChoices.unity
+    guid: 6c1a9cfa1614c1f4e96bb2af953d03c9
+  - enabled: 1
+    path: Assets/Scenes/Interactor_FewChoices.unity
+    guid: 021b5d0a14d1a9c44afea284aafcf857
+  - enabled: 1
+    path: Assets/Scenes/Movement_FewChoices.unity
+    guid: 542ce411862c3da49be548c0b87f9f98
+  - enabled: 1
+    path: Assets/Scenes/Movement_ManyChoices.unity
+    guid: aa9dbdb504984b5498863304e9dedb42
+  - enabled: 1
+    path: Assets/Scenes/Movement_NoChoices.unity
+    guid: 621d84faa3df51e4987131dc07b5e5c7
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ad4050bc0deda4e238354e959df0f1f4,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b53b89ca9241447b0a56ff61fa931615,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: f4f50c8f8f3454c90a388877cf1a2c81,
+      type: 2}
